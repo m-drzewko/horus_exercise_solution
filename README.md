@@ -1,5 +1,5 @@
 # horus_exercise_solution
-Solution for recruitment exercise from Horus
+## Solution for recruitment exercise from Horus
 
 The project uses Maven as the build tool.
 The solution contains both the implementation of requested methods in the Wall class, as well as a suite of unit tests. The implementations of Block and CompositeBlock interfaces were only done for the purpose of writing tests and those classes do not contain any logic.
